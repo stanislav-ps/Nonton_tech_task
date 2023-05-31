@@ -1,6 +1,5 @@
 Nonton Tech Task    
-This repository contains the implementation of the Nonton Tech Task,    
-which includes a password generator program implemented in different programming languages.   
+This repository contains the implementation of the Nonton Tech Task.         
 
 Getting Started   
 To get started, clone the repository:   
